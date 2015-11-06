@@ -1,9 +1,23 @@
 {
 	"/simply-edit/github.html": {
 		"title": "Dit is de bom!!!!",
-		"page content": "Other things go here!!",
+		"page content": "Other things go here!!!",
 		"image": {
 			"src": "/simple-edit/imgs/muze.png"
+		},
+		"meta title": "Simple edit",
+		"meta description": {
+			"content": "Simple edit testpage description"
+		},
+		"meta robots": {
+			"content": "noindex,nofollow"
+		},
+		"meta author": {},
+		"data-simply-page-template": {
+			"content": "index.html"
 		}
+	},
+	"/simply-edit/": {
+		"menu": []
 	}
 }
