@@ -14,9 +14,12 @@
 			"content": "index.html"
 		},
 		"title": "Github, please store this.",
-		"page content": "Other things go here",
+		"page content": "<p>And all I have to do to change this, is just type things and save.</p><p><br></p>",
 		"image": {
 			"src": "/simply-edit/imgs/muze.png"
 		}
+	},
+	"/simply-edit/": {
+		"menu": []
 	}
 }
