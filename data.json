@@ -13,7 +13,7 @@
 		"data-simply-page-template": {
 			"content": "index.html"
 		},
-		"title": "Github, please store this!!",
+		"title": "Github, please store this for me.",
 		"page content": "<p>And all I have to do to change this, is just type <a name=\"simply-edit\" id=\"simply-edit\">things </a>and save. <a href=\"#simply-edit\">Edit this page</a>.</p>",
 		"image": {
 			"src": "/simply-edit/imgs/muze.png"
